@@ -166,7 +166,7 @@ campaignTrail_temp.questions_json = [
         "pk": 446,
         "fields": {
             "priority": 8,
-            "description": "Do you support or oppose the introduction of capital punishment to deter violent crime??",
+            "description": "Do you support or oppose the introduction of capital punishment to deter violent crime?",
             "likelihood": 1
         }
     },
